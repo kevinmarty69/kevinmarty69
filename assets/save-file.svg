@@ -65,10 +65,11 @@
 
   <g class="mono tiny" fill="#7f8aa8">
     <text x="48" y="408">TYPESCRIPT</text>
-    <text x="178" y="408">PYTHON</text>
-    <text x="277" y="408">REACT</text>
-    <text x="366" y="408">POSTGRESQL</text>
-    <text x="505" y="408">LLM SYSTEMS</text>
+    <text x="178" y="408">NODE.JS</text>
+    <text x="277" y="408">PYTHON</text>
+    <text x="376" y="408">REACT</text>
+    <text x="465" y="408">POSTGRESQL</text>
+    <text x="604" y="408">LLM SYSTEMS</text>
     <text x="1152" y="408" fill="#b9ff66" text-anchor="end">FRANCE // REMOTE</text>
   </g>
 </svg>

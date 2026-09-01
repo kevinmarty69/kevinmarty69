@@ -21,7 +21,7 @@ FRAME THE REAL CONSTRAINT  ->  MODEL THE SYSTEM  ->  SHIP THE LOOP
             +------------- OBSERVE PRODUCTION <----------+
 ```
 
-**Main loadout:** TypeScript, React, React Native, Python, PostgreSQL, Supabase, FastAPI, cloud infrastructure and LLM systems.
+**Main loadout:** TypeScript, Node.js, React, React Native, Python, PostgreSQL, Supabase, FastAPI, cloud infrastructure and LLM systems.
 
 I choose boring, reliable tools when they fit. I go deeper when the product constraint earns the complexity.
 
